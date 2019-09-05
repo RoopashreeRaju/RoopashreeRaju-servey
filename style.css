@@ -1,0 +1,30 @@
+body{
+    border:2px solid gray;
+background-size:200px;
+background-color: bisque;
+width:fit-content;
+padding:20px;
+
+margin:auto;
+text-align: center;
+}
+.ab{
+   text-align: center;
+    width:fit-content;
+    margin:0 auto;
+    padding:10px;
+    border-radius:3px;
+    box-shadow:5px 5px 5px gray;
+}
+.st{
+    text-align:center;
+    width:fit-content;
+    margin:0 auto;
+    padding:10px;
+    border-radius:3px;
+    box-shadow:5px 5px 5px gray;
+}
+
+
+
+
