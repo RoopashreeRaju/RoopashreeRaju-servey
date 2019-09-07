@@ -1,12 +1,12 @@
 body{
-    border:2px solid gray;
-background-size:200px;
-background-color: bisque;
-width:fit-content;
-padding:20px;
-
-margin:auto;
-text-align: center;
+    
+     border:2px solid gray;
+    background-size:200px;
+    background-color: bisque;
+    width:fit-content;
+    padding:20px;
+    margin:auto;
+    text-align: center;
 }
 .ab{
    text-align: center;
@@ -25,6 +25,8 @@ text-align: center;
     box-shadow:5px 5px 5px gray;
 }
 
+.sub{
+    text-decoration-color: blue;
+    padding:20px;
 
-
-
+}
